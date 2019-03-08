@@ -19,3 +19,7 @@ A simple python code written to block any website from opening during the given 
         *Then Go to Condition menu and clear all the conditions if checked by default
         *Click on OK button
         *Then Enable your task
+        
+Just modify Line #4 to modify the name of website and Line #11 to change the timing of blocking in the web_blocker.py file 
+
+Make sure you have cleared and blocked the cookies of the given website to work properly
